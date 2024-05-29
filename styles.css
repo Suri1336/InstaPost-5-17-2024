@@ -1,0 +1,146 @@
+body {
+    background-image: linear-gradient(to right bottom, #f9ce34, #ffaf31, #ff903d, #ff704d, #ff5160, #f9396e, #ef1f7e, #e0008f, #cf00a0, #b800b3, #960ec5, #6228d7);
+    background-repeat: no-repeat;
+    height: 800px;
+    margin-top: 50px;
+}
+.main {
+    padding-top: 20px;
+    margin-left: 500px;
+    height: 700px;
+    overflow: scroll;
+    border: 8px solid rgb(7, 7, 7);
+    border-radius: 25px;
+    background-color: white;
+    width: 400px;
+}
+.dash {
+    border-radius: 70px;
+    width: 120px;
+    margin-left: 140px;
+    border-top: rgb(0, 0, 0) 20px solid;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+.title {
+    padding: 4px;
+    margin-left: 10px;
+    display: flex;
+}
+.insta {
+    font-family: cursive;
+    font-size: x-large;
+}
+.instaicons {
+    margin-left: 210px;
+    padding-left: 3px;
+    margin-top: 12px;
+}
+.stories {
+    padding-bottom: 10px;
+    height: 50px;
+    margin-left: 4px;
+}
+.storyimg1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    border: 4px;
+    margin-left: 4px;
+}
+.storyimg {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 4px;
+    margin-left: 6px;
+}
+.storyimg2 {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border: 4px;
+    margin-left: 6px;
+}
+.storyimg3 {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border: 4px;
+    margin-left: 1px;
+}
+.border {
+
+    position: relative;
+    background: linear-gradient(to right, #f9ce34, #ee2a7b, #6228d7);
+    padding: 2px;
+}
+.top1 {
+    padding: 2px;
+    border-top: lightgrey 1px solid;
+
+    display: flex;
+}
+.top {
+    padding: 2px;
+
+
+    display: flex;
+}
+.topicon {
+    margin-left: auto;
+    padding: 5px;
+}
+.photo {
+    width: 400px;
+    height: 300px;
+
+}
+.imgs {
+    width: 390px;
+    height: 400px;
+    padding-left: 5px;
+}
+.user {
+    padding: 5px;
+}
+.minipic {
+    border: .5px black solid;
+    border-radius: 100px;
+    margin-left: 4px;
+    width: 10px;
+    height: 15px;
+    display: flex;
+    justify-content: flex-start;
+}
+.status {
+    padding-top: 4px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5px;
+}
+.picdiv {
+    display: flex;
+}
+.likes {
+    padding-left: 10px;
+    margin-top: 5px;
+}
+a {
+    color: blue;
+}
+.bottomicons {
+    padding-left: 3px;
+    margin-top: 100px;
+}
+.paragraph {
+    padding: 10px;
+    font-size: small;
+}
+.Bicon {
+    margin: 4px;
+}
+nav {
+    background-color: white;
+}
